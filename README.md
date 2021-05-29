@@ -22,5 +22,6 @@ We need to run our game inside an infinite loop. It will continuously look for e
 
 [Code](https://github.com/alinauman/Tic_Tac_Toe/blob/main/main.py)
 
-This will be the starting image of the game
+This will be the starting image of the game:
+
 ![Main Page](https://github.com/alinauman/Tic_Tac_Toe/blob/main/tic%20tac%20opening.png)
